@@ -5,6 +5,8 @@ This workflow searches for files (just like Alfred's default `open`), and only l
 
 Currently just supports `.pdf` and `.epub`, if you think another should be added let me know!
 
+You can download the current release `.zip` [here](https://github.com/haydenholligan/read.workflow/releases/)
+
 ![read](http://i.imgur.com/D0k5XwD.png)
 
 ![read2](http://i.imgur.com/1YrcJYw.png)
